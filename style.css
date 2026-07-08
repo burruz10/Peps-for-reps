@@ -1,0 +1,27 @@
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:#0b0b0b;
+  color:#fff;
+}
+
+header{
+  background:#00c853;
+  color:#000;
+  padding:40px;
+  text-align:center;
+}
+
+.hero{
+  max-width:900px;
+  margin:40px auto;
+  padding:30px;
+  border:2px solid #00ff66;
+  border-radius:12px;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  color:#999;
+}
